@@ -4,8 +4,6 @@ description: This resource contains information regarding ethics assignment.
 file: /courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/df282927c7d67b7f39f52e68bf228be4_MITCMS_951S15_EthicsAsgn.pdf
 file_size: 155070
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

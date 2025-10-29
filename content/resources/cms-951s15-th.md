@@ -6,13 +6,11 @@ description: Taking notes while interacting with people in the field is one impo
 file: /courses/cms-951-workshop-ii-qualitative-social-science-methods-for-media-studies-spring-2015/40a996bcf5007beebc32be9237eb8150_cms-951s15-th.jpg
 file_size: 4247
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Taking notes while interacting with people in the field is one important
-    element of qualitative social science research. (Image courtesy of the [U.S. Fish
-    and Wildlife Service Southeast Region](https://flic.kr/p/dtQCYm) on flickr. License
-    CC-BY.)
+    element of qualitative social science research. (Image courtesy of the {{% resource_link
+    "d5ba9c98-a5a6-42e6-be9c-e87179db8932" "U.S. Fish and Wildlife Service Southeast
+    Region" %}} on flickr. License CC-BY.)
   credit: Image courtesy of the U.S. Fish and Wildlife Service Southeast Region on
     flickr. License CC-BY.
   image-alt: A woman takes notes while standing in a field.

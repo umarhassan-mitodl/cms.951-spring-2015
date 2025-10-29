@@ -3,8 +3,6 @@ content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, prerequisites, grading, and the schedule of course topics, activities, and
   assignment due dates.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -177,7 +175,7 @@ _Advanced Topic_: Gender, Sexuality, and Intersectionality
 
 {{< tdclose >}}
 {{< tdopen >}}
-Visit by [Nancy Baym](http://www.nancybaym.com/)
+Visit by {{% resource_link "5e4c9107-92e7-4e4c-a760-62bede54f7e0" "Nancy Baym" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
